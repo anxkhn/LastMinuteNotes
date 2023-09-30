@@ -1,0 +1,9 @@
+CN
+
+OS
+
+OOPS
+
+DBMS
+
+SQL

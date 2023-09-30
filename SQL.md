@@ -1,0 +1,63 @@
+# SQL Notes - Last Minute Revision :white_check_mark:
+
+## Most Asked SQL Interview Questions
+
+---
+
+<img src="/assets/images/SQL Basic (1)_page-0001.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0002.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0003.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0004.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0005.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0006.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0007.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0008.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0009.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0010.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0011.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0012.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0013.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0014.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0015.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0016.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0017.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0018.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0019.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0020.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0021.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0022.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0023.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0024.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0025.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0026.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0027.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0028.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0029.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0030.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0031.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0032.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0033.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0034.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0035.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0036.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0037.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0038.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0039.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0040.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0041.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0042.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0043.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0044.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0045.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0046.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0047.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0048.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0049.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0050.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0051.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0052.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0053.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0054.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0055.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0056.jpg" width="800" height="600">
+<img src="/assets/images/SQL Basic (1)_page-0057.jpg" width="800" height="600">
