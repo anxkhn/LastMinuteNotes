@@ -1,9 +1,15 @@
-CN
+### Core Computer Science Last Minute Notes
 
-OS
 
-OOPS
 
-DBMS
+##### Click on the topic to read more about those :
 
-SQL
+[CN](https://github.com/anxkhn/LastMinuteNotes/blob/main/CN.md)
+
+[OS](https://github.com/anxkhn/LastMinuteNotes/blob/main/OS.md)
+
+[OOPS](https://github.com/anxkhn/LastMinuteNotes/blob/main/OOPS.md)
+
+[DBMS](https://github.com/anxkhn/LastMinuteNotes/blob/main/DBMS.md)
+
+[SQL](https://github.com/anxkhn/LastMinuteNotes/blob/main/SQL.md)
