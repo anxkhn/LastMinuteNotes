@@ -13,3 +13,5 @@
 [DBMS](https://github.com/anxkhn/LastMinuteNotes/blob/main/DBMS.md)
 
 [SQL](https://github.com/anxkhn/LastMinuteNotes/blob/main/SQL.md)
+
+[INTERVIEW](https://github.com/anxkhn/LastMinuteNotes/blob/main/INTERVIEW.md)
